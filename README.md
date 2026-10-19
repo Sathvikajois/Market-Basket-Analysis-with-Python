@@ -21,3 +21,29 @@ This project analyzes e-commerce data to identify customer purchasing patterns a
 
 ## 🔍 Key Findings
 Key findings and visualizations will be added after the analysis files are uploaded.
+
+## 📊 Project Visualizations
+
+### 1. Cluster Distribution
+![Cluster Distribution](images/cluster_distribution.png)
+
+### 2. Cluster Price Analysis
+![Cluster Price](images/cluster_price.png)
+
+### 3. Cluster Rating Analysis
+![Cluster Rating](images/cluster_rating.png)
+
+### 4. Correlation Matrix
+![Correlation Matrix](images/correlation_matrix.png)
+
+### 5. Price Category Analysis
+![Price Category](images/price_category.png)
+
+### 6. Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### 7. Price vs. Rating
+![Price vs Rating](images/price_vs_rating.png)
+
+### 8. Rating Distribution
+![Rating Distribution](images/rating_distribution.png)
